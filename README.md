@@ -1,7 +1,8 @@
 # 499-web-assignment-
 
 **GROUP MEMBERS
-Jimmy Murachia
+James Murachia
+
 Miriam Mwangi
 
 
